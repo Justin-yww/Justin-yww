@@ -1,7 +1,7 @@
 # Hello there, I'm Justin!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspirig+Strategy+Consultant;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=870AE0&center=true&vCenter=true&width=600&lines=Software+Engineering+Student;Aspirig+Strategy+Consultant;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ## About Me
