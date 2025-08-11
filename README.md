@@ -49,6 +49,7 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 ![Microsoft Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoft&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-217346?style=for-the-badge&logo=microsoftproject&logoColor=white)
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078d4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white)
+![Lucidchart](https://img.shields.io/badge/Lucidchart-F37C20?style=for-the-badge&logo=lucidchart&logoColor=white)
 
 ### AI & Machine Learning
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
