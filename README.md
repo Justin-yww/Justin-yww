@@ -17,9 +17,9 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 
 ---
 
-## 🛠️ Tech Stack
+## ⚙️ Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
