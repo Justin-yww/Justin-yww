@@ -6,7 +6,7 @@
 
 ## About Me
 
-I’m a Software Engineering student at Sunway University & Lancaster University, pursuing my Bachelor’s degree. I’m passionate about solving problems and collaborating with others to deliver projects that uplift communities and create meaningful impact. I’m now exploring a Master’s in Management in the United Kingdom to deepen my understanding of digital strategy and consulting in South-East Asia’s fast-evolving digital economy. My goal is to build a career in strategy consulting, specialising in strategy and innovation for digital businesses.
+I’m a Software Engineering undergraduate student enrolled in the dual-degree programme between Sunway University and Lancaster University. Alongside my technical background, I’m exploring a Master’s in Investment and Wealth Management in the United Kingdom to deepen my understanding of markets, portfolio construction, and long-term capital allocation. The long term goal is to build a career in finance (private markets or private equity) where I can combine my quantitative background with financial markets knowledge to support better long-term capital allocation.
 
 ### 🎓 Academic Highlights  
 
@@ -18,7 +18,6 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 ---
 
 ## ⚙️ Tech Stack
-
 ### Programming Languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Scala](https://img.shields.io/badge/Scala-DC322F?style=for-the-badge&logo=scala&logoColor=white)
@@ -35,6 +34,9 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 
 ### Database & Backend
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+### Data Tools
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -53,6 +55,8 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 
 ### AI & Machine Learning
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude AI](https://img.shields.io/badge/Claude_AI-D4A056?style=for-the-badge&logo=anthropic&logoColor=191919)
 
 ---
 
@@ -74,13 +78,6 @@ I’m a Software Engineering student at Sunway University & Lancaster University
 - **Mission**: Promoting sustainable local nutrition solutions globally
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Justin-yww&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-yww&layout=compact&langs_count=9&theme=tokyonight"/>
-</div>
 <!-- NOTE: Can be added later on 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-yww&theme=tokyonight" alt="GitHub Streak" />
