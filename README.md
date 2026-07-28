@@ -6,14 +6,13 @@
 
 ## About Me
 
-I’m a Software Engineering undergraduate student enrolled in the dual-degree programme between Sunway University and Lancaster University. Alongside my technical background, I’m exploring a Master’s in Investment and Wealth Management in the United Kingdom to deepen my understanding of markets, portfolio construction, and long-term capital allocation. The long term goal is to build a career in finance (private markets or private equity) where I can combine my quantitative background with financial markets knowledge to support better long-term capital allocation.
+I’m a Software Engineering undergraduate student enrolled in the dual-degree programme between Sunway University and Lancaster University. Alongside my technical background, I’m exploring a career in portfolio analytics or investments to deepen my understanding of markets, portfolio construction, and long-term capital allocation. The long term goal is to build a career in finance (public markets) where I can combine my quantitative background with financial markets knowledge to support better long-term capital allocation.
 
 ### 🎓 Academic Highlights  
 
 - **Current Degree:** *First Class Honours Classification* — Dean's List recipient 
 - **Scholarship:** Jeffrey Cheah Foundation Scholar — *Chancellor's Scholarship Recipient of Sunway-Lancaster*  
 - **Location:** Greater Kuala Lumpur, Malaysia  
-
 
 ---
 
@@ -37,37 +36,52 @@ I’m a Software Engineering undergraduate student enrolled in the dual-degree p
 
 ### Data & Analytics Tools
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMyAyTDMgMTRoOWwtMSA4IDEwLTEyaC05bDEtOHoiLz48L3N2Zz4=&logoColor=white)
 ![Polars](https://img.shields.io/badge/Polars-1D7FD8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik02IDJoMnYySDZ6bTggMGgydjJoLTJ6TTQgNGgydjJINHptNCAwaDR2Mkg4em02IDBoMnYyaC0yem0yIDBoMnYyaC0yek0yIDZoMnYySDJ6bTQgMGgydjJINnptOCAwaDJ2MmgtMnptNCAwaDJ2MmgtMnpNMiA4aDJ2Mkgyem0yIDBoMnYySDR6bTIgMGgydjJINnptMiAwaDJ2Mkg4em0yIDBoMnYyaC0yem0yIDBoMnYyaC0yem0yIDBoMnYyaC0yem0yIDBoMnYyaC0yek0yIDEwaDJ2Mkgyem0yIDBoMnYySDR6bTIgMGgydjJINnptMiAwaDJ2Mkg4em0yIDBoMnYyaC0yem0yIDBoMnYyaC0yem0yIDBoMnYyaC0yek0yIDEyaDJ2Mkgyem0yIDBoMnYySDR6bTIgMGgydjJINnptMiAwaDJ2Mkg4em0yIDBoMnYyaC0yem0yIDBoMnYyaC0yek00IDE0aDJ2Mkg0em0yIDBoMnYySDZ6bTIgMGgydjJIOHptMiAwaDJ2MmgtMnptMiAwaDJ2MmgtMnpNNiAxNmgydjJINnptNCAwaDJ2MmgtMnpNNiAxOGgydjJINnptNCAwaDJ2MmgtMnoiLz48L3N2Zz4=&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft%20Fabric-09524D?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMSAyMSI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxIiB5PSIxMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
+
+### Data Visualisation Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMSAyMSI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxIiB5PSIxMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=black)
 
 ### Finance & Investment Platforms
 ![Bloomberg](https://img.shields.io/badge/Bloomberg-000000?style=for-the-badge&logoColor=white)
+![yFinance](https://img.shields.io/badge/yFinance-6001D2?style=for-the-badge&logo=yahoo&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMy4xNSAyLjU4N0wxOC4yMS4yMWExLjQ5NCAxLjQ5NCAwIDAgMC0xLjcwNS4yOWwtOS40NiA4LjYzLTQuMTItMy4xMjhhLjk5OS45OTkgMCAwIDAtMS4yNzYuMDU3TC4zMjcgNy4yNjFBMSAxIDAgMCAwIC4zMjYgOC43NEwzLjg5OSAxMiAuMzI2IDE1LjI2YTEgMSAwIDAgMCAuMDAxIDEuNDc5TDEuNjUgMTcuOTRhLjk5OS45OTkgMCAwIDAgMS4yNzYuMDU3bDQuMTItMy4xMjggOS40NiA4LjYzYTEuNDkyIDEuNDkyIDAgMCAwIDEuNzA0LjI5bDQuOTQyLTIuMzc3QTEuNSAxLjUgMCAwIDAgMjQgMTkuMDhWNC45MmExLjUgMS41IDAgMCAwLS44NS0xLjMzM3ptLTUuMTQ2IDE0Ljg2MUwxMC44MjYgMTJsNy4xNzgtNS40NDh2MTAuODk2eiIvPjwvc3ZnPg==&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Microsoft Project](https://img.shields.io/badge/Microsoft%20Project-185C37?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMSAyMSI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxIiB5PSIxMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
 ![Microsoft SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-000000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMSAyMSI+PHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxIiB5PSIxMSIgd2lkdGg9IjkiIGhlaWdodD0iOSIgZmlsbD0id2hpdGUiLz48cmVjdCB4PSIxMSIgeT0iMTEiIHdpZHRoPSI5IiBoZWlnaHQ9IjkiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white)
 ![Lucidchart](https://img.shields.io/badge/Lucidchart-F37C20?style=for-the-badge&logo=lucid&logoColor=white)
 
 ### AI & Machine Learning
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMi4yODIgOS44MjFhNS45ODUgNS45ODUgMCAwIDAtLjUxNi00LjkxIDYuMDQ2IDYuMDQ2IDAgMCAwLTYuNTEtMi45QTYuMDY1IDYuMDY1IDAgMCAwIDQuOTgxIDQuMThhNS45ODUgNS45ODUgMCAwIDAtMy45OTggMi45IDYuMDQ2IDYuMDQ2IDAgMCAwIC43NDMgNy4wOTcgNS45OCA1Ljk4IDAgMCAwIC41MSA0LjkxMSA2LjA1MSA2LjA1MSAwIDAgMCA2LjUxNSAyLjlBNS45ODUgNS45ODUgMCAwIDAgMTMuMjYgMjRhNi4wNTYgNi4wNTYgMCAwIDAgNS43NzItNC4yMDYgNS45OSA1Ljk5IDAgMCAwIDMuOTk3LTIuOSA2LjA1NiA2LjA1NiAwIDAgMC0uNzQ3LTcuMDczek0xMy4yNiAyMi40M2E0LjQ3NiA0LjQ3NiAwIDAgMS0yLjg3Ni0xLjA0bC4xNDEtLjA4MSA0Ljc3OS0yLjc1OGEuNzk1Ljc5NSAwIDAgMCAuMzkyLS42ODF2LTYuNzM3bDIuMDIgMS4xNjhhLjA3MS4wNzEgMCAwIDEgLjAzOC4wNTJ2NS41ODNhNC41MDQgNC41MDQgMCAwIDEtNC40OTQgNC40OTR6TTMuNiAxOC4zMDRhNC40NyA0LjQ3IDAgMCAxLS41MzUtMy4wMTRsLjE0Mi4wODUgNC43ODMgMi43NTlhLjc3MS43NzEgMCAwIDAgLjc4IDBsNS44NDMtMy4zNjl2Mi4zMzJhLjA4LjA4IDAgMCAxLS4wMzMuMDYyTDkuNzQgMTkuOTVhNC41IDQuNSAwIDAgMS02LjE0LTEuNjQ2ek0yLjM0IDcuODk2YTQuNDg1IDQuNDg1IDAgMCAxIDIuMzY2LTEuOTczVjExLjZhLjc2Ni43NjYgMCAwIDAgLjM4OC42NzZsNS44MTUgMy4zNTUtMi4wMiAxLjE2OGEuMDc2LjA3NiAwIDAgMS0uMDcxIDBsLTQuODMtMi43ODZBNC41MDQgNC41MDQgMCAwIDEgMi4zNCA3Ljg3MnptMTYuNTk3IDMuODU1bC01Ljg0My0zLjM2OSAyLjAyLTEuMTY4YS4wNzYuMDc2IDAgMCAxIC4wNzEgMGw0LjgzIDIuNzg2YTQuNDk0IDQuNDk0IDAgMCAxLS42NzYgOC4xMDV2LTUuNjc4YS43OS43OSAwIDAgMC0uNDAyLS42NzZ6bTIuMDEtMy4wMjNsLS4xNDEtLjA4NS00Ljc3NC0yLjc4MmEuNzc2Ljc3NiAwIDAgMC0uNzg1IDBMOS40MDkgOS4yM1Y2Ljg5N2EuMDY2LjA2NiAwIDAgMSAuMDMzLS4wNjJsNC4wODMtMi4zNTVhNC40OSA0LjQ5IDAgMCAxIDYuNjYgNC42NnptLTEyLjY0IDQuMTM1bC0yLjAyLTEuMTY0YS4wOC4wOCAwIDAgMS0uMDM4LS4wNTdWNi4wNzVhNC40OTQgNC40OTQgMCAwIDEgNy4zNzUtMy40NTNsLS4xNDIuMDhMOC43MDQgNS40NmEuNzk1Ljc5NSAwIDAgMC0uMzkzLjY4MXptMS4wOTctMi4zNjVsMi42MDItMS41IDIuNjA3IDEuNXYyLjk5OWwtMi41OTcgMS41LTIuNjA3LTEuNXoiLz48L3N2Zz4=&logoColor=white)
-![Claude AI](https://img.shields.io/badge/Claude_AI-D4A056?style=for-the-badge&logo=anthropic&logoColor=191919)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Kimi](https://img.shields.io/badge/Kimi-FFFFFF?style=for-the-badge&logo=kimi&logoColor=black&labelColor=FFFFFF)
+
 
 ---
 
 ## Featured Projects
 
-### 🚗 **In-Car Display Interface**
-*Software Engineering Project*
+### 📈 **Correlation Matrix Generator**
+*Financial Data Visualization Tool*
 
-- **System Design**: Created comprehensive UML diagrams (use case, class, sequence, activity)
-- **UI/UX**: Developed high-fidelity Figma prototype
-- **Architecture**: Modeled complete system architecture for automotive display systems
+- **Tech Stack**: Built with Python, Streamlit, Pandas, SciPy, and Seaborn.
+- **Data Integration**: Fetches historical price data from Yahoo Finance via the `yfinance` library without requiring an API key.
+- **Core Functionality**: Computes daily return correlations and applies hierarchical clustering to position behaviorally-similar stocks adjacent to each other on a heatmap.
+
+### 💼 **13F Terminal**
+*Institutional Holdings Tracker*
+
+- **Tech Stack**: Developed using Python, Streamlit, Pandas, and Plotly.
+- **Data Pipeline**: Fetches the two most recent 13F-HR filings from SEC EDGAR and resolves CUSIP codes to tickers using OpenFIGI.
+- **Analysis**: Computes share-level changes between quarters to highlight the top 10 buys and sells within an interactive dashboard.
 
 ### 🥬 **LocalEats Website**
 *Web Programming Project*
