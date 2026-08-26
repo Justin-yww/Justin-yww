@@ -9,7 +9,7 @@ Software Engineering graduate who took a career detour through financial data an
 - Chancellor's Scholar of Sunway Lancaster
 - BCG Emeralds Fellow 2026
 
-The code lives here. The person → [more about meeeeee](https://justinyww.vercel.app/index.html)
+The code lives here. The person → [more about meeeeee](https://www.justinyww.dev/)
 
 ---
 
