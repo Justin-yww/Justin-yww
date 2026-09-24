@@ -4,11 +4,13 @@
 
 ## About Me
 
-Software engineering graduate who crossed into financial data and strategy. I build tools that turn market signals into actionable views — from live SEC 13F scrapers to equity correlation dashboards. Currently a BCG Emeralds Fellow; previously Chancellor's Scholar at Sunway University Lancaster.
+Software engineering graduate who crossed into finance data and strategy consulting.
 
+- School of American Education Valedictorian 
 - First Class Honours Graduate
-- Chancellor's Scholar of Sunway Lancaster
-- BCG Emeralds Fellow 2026
+- Chancellor's Scholar @ Sunway University and Lancaster University 
+- Emeralds Fellow @ BCG Malaysia
+- Builder @ ShareLah 
 
 The code lives here. The person → [more about meeeeee](https://www.justinyww.dev/)
 
@@ -17,12 +19,9 @@ The code lives here. The person → [more about meeeeee](https://www.justinyww.d
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Justin-yww&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-yww&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</div>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Justin-yww&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Justin-yww&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+
+
 
 ---
 
@@ -30,10 +29,12 @@ The code lives here. The person → [more about meeeeee](https://www.justinyww.d
 
 | Project | Stack | What it does |
 |---------|-------|--------------|
+| [Final Year Project](https://fyp-justinyww.vercel.app/) | Academic Research  | **Project Title:** A Requirements Engineering Framework for Consumer ML Web Applications: Evidence from Social Expense Management | 
+| [ShareLah](https://sharelah.app/) | Next.js · Supabase · Resend · Vercel | A social planning and expense management app focusing on simplifying social hangouts and expense management when out with friends. |
 | [SEC13F Screener](https://github.com/Justin-yww/SEC13F_Screener) | Python · Streamlit · Plotly | Pulls live 13F-HR filings from SEC EDGAR, computes quarter-over-quarter share deltas, surfaces the top 10 buys and sells per institution. No paid APIs. |
 | [Correlation Matrix Generator](https://github.com/Justin-yww/Correlation-Matrix-Generator) | Python · Streamlit | Applies hierarchical clustering to equity correlation matrices to identify behaviourally-grouped stock clusters for portfolio concentration risk analysis. |
 | [ETF Picker](https://github.com/Justin-yww/ETF-picker) | TypeScript · Next.js · Yahoo Finance | Compare US ETFs side-by-side: fund metrics table, return charts, and a holdings-based world map of geographic allocation. |
-| [ShareLah](https://github.com/Justin-yww/sharelah_cp2_version) | JavaScript · LLM Agents · ML | Final Year Project — social expense management app whose decision engine combines trained models and LLM agents to make splitting seamless. |
+
 
 ---
 
